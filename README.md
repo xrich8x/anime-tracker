@@ -17,6 +17,10 @@ A fast, dark-mode Windows desktop app that tracks the anime you're watching, che
 
 ## Getting started
 
+### Download (no install)
+
+Grab the latest **[AnimeTracker-v1.0-Windows.zip](https://github.com/xrich8x/anime-tracker/releases/latest)** from Releases, extract the whole folder, and run `AnimeTracker.exe` — no Python required. (Windows SmartScreen may warn on first launch since the app isn't code-signed; click *More info → Run anyway*.)
+
 ### Run from source
 
 ```
